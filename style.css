@@ -4,8 +4,13 @@
     text-decoration: none;
 }
 
-header{
+.center{
     text-align: center;
+}
+
+#middle{
+    text-align: center;
+    margin-top: 2%;
 }
 
 .King{
@@ -28,4 +33,46 @@ header{
     background-image: linear-gradient( 45deg, #08b908,#dd0d0d, #06b906);
     padding: 10px 15px;
     color: white;
+    box-shadow: 10px 10px 40px gray;
 }
+
+/* 2nd part */
+
+.Boss-2{
+    display: flex;
+    margin-left: 2% ;
+    justify-content: space-around;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.card-main{
+    width: 25%;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.card{
+    padding: 15px;
+}
+
+.card h1{
+    text-align: center;
+}
+
+.jus{
+    text-align: justify;
+}
+
+#hhh{ 
+    margin-left: 38%;
+}
+
+.image-card img{
+    width: 100%;
+}
+
+footer{
+    text-align: center;
+}
+
+
