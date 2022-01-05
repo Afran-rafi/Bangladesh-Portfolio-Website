@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0%;
+    text-decoration: none;
+}
+
+header{
+    text-align: center;
+}
+
+.King{
+    margin: 0 auto;
+    display: flex;
+}
+
+.Bangladesh{
+     margin-top: 10%;
+     margin-left: 10%;
+}
+
+.image img{
+    width: 90%;
+    margin-bottom: 10%;
+}
+
+.Button{
+    border-radius: 10px;
+    background-image: linear-gradient( 45deg, #08b908,#dd0d0d, #06b906);
+    padding: 10px 15px;
+    color: white;
+}
